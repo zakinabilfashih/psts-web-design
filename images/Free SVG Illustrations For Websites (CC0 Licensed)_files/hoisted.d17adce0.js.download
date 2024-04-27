@@ -1,0 +1,1 @@
+import"./hoisted.75c30bc1.js";document.querySelectorAll(".accordion-button").forEach(e=>{e.addEventListener("click",()=>{e.classList.toggle("active");const l=e.nextElementSibling;l.style.display==="block"?l.style.display="none":l.style.display="block"})});
